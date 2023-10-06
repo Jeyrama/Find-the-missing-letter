@@ -24,3 +24,5 @@ function findMissingLetter(array) {
   }
   throw new Error("Invalid input")
 }
+
+// or
