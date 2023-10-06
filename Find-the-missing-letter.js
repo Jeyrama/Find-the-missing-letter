@@ -11,3 +11,6 @@ Example:
 ['a','b','c','d','f'] -> 'e'
 ['O','Q','R','S'] -> 'P'
 */
+
+
+// Solution
